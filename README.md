@@ -5,13 +5,13 @@ Introduce the core focus: leveraging data science to predict home prices in Bang
 Highlight the importance of understanding the factors influencing real estate pricing for both buyers and sellers.
 Emphasize the relevance of your project in providing valuable insights into the dynamic housing market of Bangalore.
 
-#Objective: 
+###Objective: 
 To predict home prices in Bangalore based on key features such as location, total square footage, number of bathrooms, and number of bedrooms.
 
-#Dummy Dataset:
+###Dummy Dataset:
 Overview of the dataset downloaded from Kaggle.Key variables: location, total square footage, number of bathrooms, number of bedrooms Sample entries to illustrate the structure of the data.
 
-#Algorithm:
+###Algorithm:
 Regression Algorithm Implementation.
 ### Why Linear Regression?
 
